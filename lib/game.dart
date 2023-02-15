@@ -42,7 +42,7 @@ class _GameState extends State<Game> {
               children: [
                 Padding(
                   padding:
-                      const EdgeInsets.symmetric(horizontal: 20, vertical: 50),
+                      const   EdgeInsets.symmetric(horizontal: 20, vertical: 50),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     crossAxisAlignment: CrossAxisAlignment.start,
